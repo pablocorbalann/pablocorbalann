@@ -1,6 +1,6 @@
 <p align="center", style="margin:auto;">
 	<img src="https://github.com/PabloCorbCon/PabloCorbCon/blob/master/images/banner.png"/>
-qq</p>
+</p>
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
