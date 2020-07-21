@@ -1,17 +1,4 @@
-# [Pablo Corbalán](https://github.com/PabloCorbCon) | Python Jr Dev.
-
------------------------
-
-**Python3** developer that loves learning new things. As I love Python most of my projects are built using it.
-
-<a href="https://twitter.com/pablocorbcon">
-  <img align="left" alt="Pablo Corbalán - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.reddit.com/user/progsNyx">
-  <img align="left" alt="Pablo Corbalán - Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
-<br />
-<br />
+<p align="center", style="margin:auto;"><img src="https://github.com/PabloCorbCon/PabloCorbCon/blob/master/images/banner.png"/></p>
 
 ```python
 from datetime import date
@@ -53,3 +40,12 @@ PabloCorbCon = ReadMe()
 ![Pablo's github stats](https://github-readme-stats.vercel.app/api?username=PabloCorbCon&show_icons=true&title_color=6e6e6e&icon_color=50fa76&text_color=6e6e6e&hide_border=true)
 
 <p>Visit my profile and give a ⭐️ if you like it</p>
+
+<a href="https://twitter.com/pablocorbcon">
+  <img align="left" alt="Pablo Corbalán - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.reddit.com/user/progsNyx">
+  <img align="left" alt="Pablo Corbalán - Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
+<br />
+<br />
