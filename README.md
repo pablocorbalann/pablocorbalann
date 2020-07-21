@@ -35,6 +35,21 @@ class ReadMe:
 PabloCorbCon = ReadMe()
 ```
 
-![Pablo's github stats](https://github-readme-stats.vercel.app/api?username=PabloCorbCon&show_icons=true&hide_border=true)
+<p align="center">
+  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="python", style="vertical-align: top; margin:4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="html", style="vertical-align:top; margin:4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt ="css", style="vertical-align: top; margin:4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp.svg" alt = 'c#', style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp.svg" alt = 'c#', style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/misc/mobile.svg" alt="mobile_development" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/devices/raspberrypi.svg" alt="raspberry", style="vertical-align: top; margin: 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/devices/pc.svg" alt="pc", style="vertical-align:top; margin: 4px">
+</p>
+
+![Pablo's github stats](https://github-readme-stats.vercel.app/api?username=PabloCorbCon&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f)](https://github.com/anuraghazra/github-readme-stats)
 
 You can check my Twitter (where i spend all the time here): https://twitter.com/pablocorbcon
