@@ -50,6 +50,6 @@ PabloCorbCon = ReadMe()
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/devices/pc.svg" alt="pc", style="vertical-align:top; margin: 4px">
 </p>
 
-![Pablo's github stats](https://github-readme-stats.vercel.app/api?username=PabloCorbCon&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f)](https://github.com/anuraghazra/github-readme-stats)
+![Pablo's github stats](https://github-readme-stats.vercel.app/api?username=PabloCorbCon&show_icons=true&title_color=6e6e6e&icon_color=50fa76&text_color=6e6e6e&hide_border=true)
 
 You can check my Twitter (where i spend all the time here): https://twitter.com/pablocorbcon
