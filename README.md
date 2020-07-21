@@ -1,4 +1,6 @@
-#Pablo Corbalán | Python Jr Dev.
+# Pablo Corbalán | Python Jr Dev.
+
+-----------------------
 
 So, I'm Pablo, a **Python** developer that loves learning new things. As I love Python most of my projects are built using it.
 
