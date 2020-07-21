@@ -1,4 +1,4 @@
-# Pablo Corbalán | Python Jr Dev.
+# [Pablo Corbalán](https://github.com/PabloCorbCon) | Python Jr Dev.
 
 -----------------------
 
@@ -52,4 +52,4 @@ PabloCorbCon = ReadMe()
 
 ![Pablo's github stats](https://github-readme-stats.vercel.app/api?username=PabloCorbCon&show_icons=true&title_color=6e6e6e&icon_color=50fa76&text_color=6e6e6e&hide_border=true)
 
-You can check my Twitter (where i spend all the time here): https://twitter.com/pablocorbcon
+<p>Visit my profile and give a ⭐️ if you like it</p>
