@@ -45,10 +45,10 @@ PabloCorbCon = ReadMe()
 <p>Visit my profile and give a ⭐️ if you like it</p>
 
 <a href="https://twitter.com/pablocorbcon">
-  <img align="left" alt="Pablo Corbalán - Twitter" width="22px" src="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">
+  <img align="left" alt="Pablo Corbalán - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">
 </a>
 <a href="https://www.reddit.com/user/progsNyx">
-  <img align="left" alt="Pablo Corbalán - Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+  <img align="left" alt="Pablo Corbalán - Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg"/>
 </a>
 <br />
 <br />
