@@ -1,8 +1,4 @@
-<div style="background-color: 50fa76">
-	<h1 align="center">Pablo Corbalán</h1>
-	<h6 align="center">Python developer</h6>
-	
-</div>
+<img alt="Pablo Corbalán" src="https://github.com/PabloCorbCon/PabloCorbCon/blob/master/images/banner.png?raw=True">
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
