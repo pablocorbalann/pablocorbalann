@@ -5,7 +5,6 @@
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="python", style="vertical-align: top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="html", style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt ="css", style="vertical-align: top; margin:4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp.svg" alt = 'c#', style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp.svg" alt = 'c#', style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
@@ -37,9 +36,7 @@ class ReadMe:
 
 PabloCorbCon = ReadMe()
 ```
-
-![Pablo's github stats](https://github-readme-stats.vercel.app/api?username=PabloCorbCon&show_icons=true&title_color=6e6e6e&icon_color=50fa76&text_color=6e6e6e&hide_border=true)
-
+[![Pablo's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <p>Visit my profile and give a ⭐️ if you like it</p>
 
 <a href="https://twitter.com/pablocorbcon">
