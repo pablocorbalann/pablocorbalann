@@ -36,7 +36,6 @@ class ReadMe:
 
 PabloCorbCon = ReadMe()
 ```
-[![Pablo's github stats](https://github-readme-stats.vercel.app/api?username=PabloCorbCon)](https://github.com/anuraghazra/github-readme-stats)
 <p>Visit my profile and give a ⭐️ if you like it</p>
 
 <a href="https://twitter.com/pablocorbcon">
