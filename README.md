@@ -14,7 +14,6 @@
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/devices/pc.svg" alt="pc", style="vertical-align:top; margin: 4px">
 </p>
 
-<p align="center"><img alt="..." src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloCorbCon"/></p>
 <br>
 <p align="center">Visit my profile and give a ⭐️ if you like it</p>
 <br>
