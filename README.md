@@ -13,7 +13,8 @@
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/devices/raspberrypi.svg" alt="raspberry", style="vertical-align: top; margin: 4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/devices/pc.svg" alt="pc", style="vertical-align:top; margin: 4px">
 </p>
-
+<br>
+<p align="center"><img alt="..." src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloCorbCon"/></p>
 <br>
 <p align="center">Visit my profile and give a ⭐️ if you like it</p>
 <br>
