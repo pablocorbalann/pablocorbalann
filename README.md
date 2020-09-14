@@ -1,7 +1,5 @@
 <img alt="Pablo Corbalán" src="https://github.com/PabloCorbCon/PabloCorbCon/blob/master/images/banner.png?raw=True">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=PabloCorbCon&color=green&style=flat-square&label=VIEWS" alt="PabloCorbCon" /> </p>
-
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="python", style="vertical-align: top; margin:4px">
