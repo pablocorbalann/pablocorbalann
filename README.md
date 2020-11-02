@@ -15,6 +15,9 @@
 <p align="center">I am also running a <strong>Youtube channel</strong> as a hobby.<br>The channel is in <strong>Spanish</strong> because it's my natal language<br> Check it out <a href="https://www.youtube.com/channel/UCYawvF7GUx2eo2QUbtfdtAg?view_as=subscriber">here</a>.</p>
 
 <!-- YOUTUBE:START -->
+- [Ataques DOS y DDOS explicados en TRES MINUTOS | Pablo Corbalán](https://www.youtube.com/watch?v=QOldIGA1CPY)
+- [MOVIMIENTO FLUIDO en PYGAME - Tutorial | Pablo Corbalán](https://www.youtube.com/watch?v=5M6vzWFjVDQ)
+- [SOLUCIÓN BIT-COUNTING - Kata Codewars | Pablo Corbalán](https://www.youtube.com/watch?v=naslo5w5ib4)
 <!-- YOUTUBE:END -->
 
 ---
