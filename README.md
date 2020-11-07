@@ -11,17 +11,6 @@
 
 ---
 
-### 🎬 Youtube 🎬
-<p>I am also running a <strong>Youtube channel</strong> as a hobby.<br>The channel is in <strong>Spanish</strong> because it's my natal language<br> Check it out!</p>
-
-<!-- YOUTUBE:START -->
-- [Ataques DOS y DDOS explicados en TRES MINUTOS | Pablo Corbalán](https://www.youtube.com/watch?v=QOldIGA1CPY)
-- [MOVIMIENTO FLUIDO en PYGAME - Tutorial | Pablo Corbalán](https://www.youtube.com/watch?v=5M6vzWFjVDQ)
-- [SOLUCIÓN BIT-COUNTING - Kata Codewars | Pablo Corbalán](https://www.youtube.com/watch?v=naslo5w5ib4)
-<!-- YOUTUBE:END -->
-
----
-
 <p align="center"><strong>Want to help me?</strong> Check out my PayPal!<br><br><a href="https://paypal.me/pablocorbcon"><img width="50px" src="https://www.flaticon.es/svg/static/icons/svg/985/985680.svg"></a>
 </p>
 
