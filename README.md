@@ -7,7 +7,7 @@
 ---
 
 ### ⚙️ Languages and tools ⚙️
-<p>My main language is <strong>Python</strong>, however I also manage some basic <strong>Go</strong>.<br>I can defend my self in <strong>web</strong>, but my Html / Css is almost null.<br>My main editor is <strong>Vim</strong>, I even have uploaded my configuration to <a href="https://github.com/PabloCorbCon/vim-config">this</a> repo.<br>I also can manage with Subllime Text 3 and Atom<br>I have a strong knowledge of <strong>git</strong> and <strong>GitHub</strong>.<br>And I can manage pretty good using Markdown or json files.<br>I would like to learn <strong>C</strong> or C++, and I will.</p>
+<p>My main language is <strong>Python</strong>, however I also manage some basic <strong>Go</strong>.<br>I can defend myself in <strong>web</strong>, but my Html / Css is almost null.<br>My main editor is <strong>Vim</strong>, I have even uploaded my configuration to <a href="https://github.com/PabloCorbCon/vim-config">this</a> repo.<br>I also can manage with Subllime Text 3 and Atom.<br>I have a strong knowledge of <strong>git</strong> and <strong>GitHub</strong>.<br>And I can manage pretty good using Markdown or json files.<br>I would like to learn <strong>C</strong> or C++, and I will.</p>
 
 ---
 
