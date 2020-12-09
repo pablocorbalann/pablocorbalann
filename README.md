@@ -12,9 +12,9 @@
 ---
 
 <p align="center">
-<a href="https://github.com/pblcc/slung"><img title="Slung" src="https://github-readme-stats.vercel.app/api/pin/?username=pblcc&repo=slungtheme=radical"></a>
+<a href="https://github.com/pblcc/slung"><img title="slung" src="https://github-readme-stats.vercel.app/api/pin/?username=pblcc&repo=slung&theme=radical"></a>
 <a href="https://github.com/pblcc/vmg"><img title="vmg" src="https://github-readme-stats.vercel.app/api/pin/?username=pblcc&repo=vmg&theme=radical"></a>
-<a href="https://github.com/pblcc/pycasting"><img title="pycasting" src="https://github-readme-stats.vercel.app/api/pin/?username=pblccs&repo=pycasting&theme=radical"></a>
+<a href="https://github.com/pblcc/pycasting"><img title="pycasting" src="https://github-readme-stats.vercel.app/api/pin/?username=pblcc&repo=pycasting&theme=radical"></a>
 <a href="https://github.com/pblcc/vim-config"><img title="vim config" src="https://github-readme-stats.vercel.app/api/pin/?username=pblcc&repo=vim-config&theme=radical"></a>
 </p>
 
