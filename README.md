@@ -11,6 +11,15 @@
 
 ---
 
+<p align="center">
+<a href="https://github.com/pblcc/slung"><img title="Slung" src="https://github-readme-stats.vercel.app/api/pin/?username=pblcc&repo=slungtheme=radical"></a>
+<a href="https://github.com/pblcc/vmg"><img title="vmg" src="https://github-readme-stats.vercel.app/api/pin/?username=pblcc&repo=vmg&theme=radical"></a>
+<a href="https://github.com/pblcc/pycasting"><img title="pycasting" src="https://github-readme-stats.vercel.app/api/pin/?username=pblccs&repo=pycasting&theme=radical"></a>
+<a href="https://github.com/pblcc/vim-config"><img title="vim config" src="https://github-readme-stats.vercel.app/api/pin/?username=pblcc&repo=vim-config&theme=radical"></a>
+</p>
+
+---
+
 <p align="center"><strong>Want to help me?</strong> Check out my PayPal!<br><br><a href="https://paypal.me/pablocorbcon"><img width="50px" src="https://www.flaticon.es/svg/static/icons/svg/985/985680.svg"></a>
 </p>
 
@@ -23,3 +32,4 @@
   <a href="https://reddit.com/u/ProgsNYX_"><img src="https://www.flaticon.es/svg/static/icons/svg/2111/2111589.svg" width="35px"></a>
   <a href="https://t.me/pablocorbcon"><img src="https://www.flaticon.es/svg/static/icons/svg/2111/2111644.svg" width="35px"></a>
 </p>
+
