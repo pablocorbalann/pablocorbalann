@@ -12,6 +12,9 @@
 
 ---
 
+<p align="center"><img src="https://metrics.lecoq.io/pblcc?template=classic&config.timezone=Europe%2FMadrid"></p>
+---
+
 <p align="center"><strong>Want to help me?</strong> Check out my PayPal!<br><br><a href="https://paypal.me/pablocorbcon"><img width="50px" src="https://www.flaticon.es/svg/static/icons/svg/985/985680.svg"></a>
 </p>
 
