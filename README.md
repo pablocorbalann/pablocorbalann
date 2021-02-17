@@ -22,8 +22,6 @@
 
 <p align="center">
   <a href="https://twitter.com/pablocorbcon"><img src="https://www.flaticon.es/svg/static/icons/svg/733/733579.svg" width="35px"></a>
-  <a href="https://www.youtube.com/channel/UCYawvF7GUx2eo2QUbtfdtAg?"><img src="https://www.flaticon.es/svg/static/icons/svg/1384/1384060.svg" width="35px"></a>
-  <a href="https://t.me/pablocorbcon"><img src="https://www.flaticon.es/svg/static/icons/svg/2111/2111370.svg" width="35px"></a>
   <a href="https://reddit.com/u/ProgsNYX_"><img src="https://www.flaticon.es/svg/static/icons/svg/2111/2111589.svg" width="35px"></a>
   <a href="https://t.me/pablocorbcon"><img src="https://www.flaticon.es/svg/static/icons/svg/2111/2111644.svg" width="35px"></a>
 </p>
